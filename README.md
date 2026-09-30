@@ -10,7 +10,7 @@ Add the following lines to your `config/extra.toml` (create it if it doesn't exi
 
 ```toml
 [[ballsdex.packages]]
-location = "git+https://github.com/Caylies/bd-labelmaker-plugin.git@v1.0.0"
+location = "git+https://github.com/Caylies/bd-labelmaker-plugin.git@1.0.0"
 path = "labelmaker_app"
 enabled = true
 
