@@ -1,0 +1,20 @@
+[project]
+name = "labelmaker_plugin"
+version = "1.0.0"
+
+dependencies = [
+ "emoji>=2.16.0",
+]
+
+description = "bd-labelmaker w/ Plugin"
+license = "MIT"
+license-files = ["LICENSE"]
+
+authors = [
+    { name = "dormieriancitizen", email = "foo@bar.com"},
+    { name = "Cayla", email = "official.dotzz@gmail.com"}
+]
+readme = "README.md"
+
+[project.urls]
+homepage="https://github.com/Caylies/bd-labelmaker-plugin"
